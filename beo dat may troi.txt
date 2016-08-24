@@ -13,5 +13,28 @@ Tabs: Tremolo
 9 7 9 10 11 10 9
 
 
+
+Tabs: Diatonic
+
+Tabs 1 (Translated from Tremolo's tabs):
+4 4 / 6 5 -5 6 / -6 6 6
+5 5 5 -4 5 6 4
+5 -4 4 -2
+6 7 5 -5 6
+5 5 5 -4 5 6 4
+5 -4 4 -2
+
+-3" 4 4 -4 5
+5 -4 5 -4 4 -4 5 -4 4 -2
+4 -2 4 -4 5 -4 4
+
+Tabs 2:
+3 3 /5 4 -4 5/ -5 5 5/
+4 -3 4 4 -3 4 5
+3 3 4 -3 3 2
+6 -6 5 -5 6 5 -4 5 5 -4 5 6 4 4 5 -4 4 3. 4 3 4 5 -4 4
+3 3 5 4 -4 5 -5 5 5 4 -3 4 4 -3 4 5 3 3 4 -3 3 2
+6 -6 5 -5 6 5 -4 5 5 -4 5 6 4 4 5 -4 4 3. 3 4 4 -4 5 -4 5 -4 5 -4 5 6 5 4 5 4 5 6 -5 5  
+
 Source: http://www.theharmonica.net/2012/10/harmonica-tab-beo-dat-may-troi.html#ixzz4IFm3uXI1
 Youtube's link: https://www.youtube.com/watch?v=8prxC6-BedU#t=51
